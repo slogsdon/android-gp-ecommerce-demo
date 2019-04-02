@@ -1,0 +1,13 @@
+{
+    "name": "shane.logsdon/rxp-android",
+    "type": "project",
+    "require": {
+        "globalpayments/php-sdk": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Shane Logsdon",
+            "email": "shane@shanelogsdon.com"
+        }
+    ]
+}
